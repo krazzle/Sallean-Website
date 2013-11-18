@@ -14,19 +14,6 @@ border-left:1px solid #ccc;
 border-right:1px solid #ccc;
 }
 
-#header{
-width:960px;
-height:135px;
-margin:0 auto;
-margin-bottom:25px;
-border-bottom:1px solid #ccc;
-border-top:1px solid #ccc;
-}
-
-#header h2{
-padding:10px;
-}
-
 #nav{
 width:960px;
 height:40px;

@@ -11,8 +11,7 @@
 </head>
 
 <body>
-	<div id="wrapper">
-		<?php include('includes/header.php'); ?>
+	<div id="wrapper">	
 		<?php include('includes/nav.php'); ?>
 		<div id="content">
 			<h3>About Me!</h3>

@@ -12,7 +12,6 @@
 
 <body>
 	<div id="wrapper">
-		<?php include('includes/header.php'); ?>
 		<?php include('includes/nav.php'); ?>
 		<div id="content">
 			<p> include Resume here </p>
