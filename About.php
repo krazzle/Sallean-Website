@@ -3,20 +3,22 @@
 <html>
 <body>
 <menu>
+ 
 <ul>
-	<li><a href="About.html">About</a></li>
-	<li><a href="Projects.html">Projects</a></li>
-	<li><a href="Resume.html">Resume</a></li>
-	<li><a href="Fun.html">For Fun!</a></li>
+<li><a href="About.php">About</a></li>
+<li><a href="Projects.php">Projects</a></li>
+<li><a href="Resume.php">Resume</a></li>
+<li><a href="Fun.php">For Fun!</a></li>
 </ul>
-</menu>
 
+</menu> 
 <main>
 
-<?php echo "Hello World!"; ?> 
+<?php
+echo "Hello World!";
+echo "<p>This Website is currently a definite work in progress! (php!)</p>";
+?>
 
-
-<p>This Website is currently a definite work in progress!</p>
 
 <p>
 

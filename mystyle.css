@@ -1,5 +1,6 @@
 
 menu {
+background-color:white;
 float:left;
 width:100%;
 overflow:hidden;
@@ -11,6 +12,7 @@ text-decoration:none;
 }
 
 menu ul {
+background-color:white;
 clear:left;
 float:left;
 list-style:none;
@@ -22,6 +24,7 @@ text-align:center;
 }
 
 menu ul li{
+background-color:white;
 display:block;
 float:left;
 list-style:none;
@@ -32,16 +35,21 @@ right:50%;
 }
 
 @media (max-width: 767px) {
-    #nav li {
+    menu ul li {
         display: block;
         width: 100%;
     }
 }
 
 menu u li a{
+background-color:white;
 display:block;
 margin:0 0 0 1px;
 padding:3px 10px;
+}
+
+main{
+background-color:#36ddb8;
 }
 
 p {
@@ -63,5 +71,4 @@ text-decoration:none;
 
 body {
 font-family:'Ubuntu';
-background-color:white;
 }

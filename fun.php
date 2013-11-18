@@ -16,7 +16,7 @@
 </menu>
 
 <main>
-<p>I will put projects here!</p>
+<p>I will put fun stuff about my hobbies here!</p>
 </main>
 
 </body>
