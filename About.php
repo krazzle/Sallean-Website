@@ -2,6 +2,7 @@
 
 <html>
 <body>
+
 <menu>
  
 <ul>
@@ -12,10 +13,11 @@
 </ul>
 
 </menu> 
+
 <main>
 
 <?php
-echo "Hello World!";
+//echo "Hello World!";
 echo "<p>This Website is currently a definite work in progress! (php!)</p>";
 ?>
 
