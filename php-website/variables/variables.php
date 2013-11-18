@@ -1,4 +1,4 @@
 <?php
-$heading='1stWebDesigner PHP Template';
-$footer=' Copyright &copy 2010 <a href="http://www.1stwebdesigner.com">1stWebDesigner PHP Template</a> ';
+$heading='Alyssa Sallean This Will Go Away';
+$footer='<p> This website created by Alyssa Sallean Nov. 2013 </p>';
 ?>

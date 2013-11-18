@@ -15,12 +15,8 @@
 		<?php include('includes/header.php'); ?>
 		<?php include('includes/nav.php'); ?>
 		<div id="content">
-			<h3>Paragraph Element</h3>
-				<p>
-				HEY YO DAWG IM TYPING SOME TEXT
-				</p>
+			<p> include content here </p>
 		</div> <!-- end content -->
-		<?php include('includes/sidebar.php'); ?>
 		<?php include('includes/footer.php'); ?>
 	</div> <!-- end wrapper -->
 </body>
