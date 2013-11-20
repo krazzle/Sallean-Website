@@ -7,15 +7,25 @@
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
-<?php include('includes/fonts.php'); ?>
-<title>AlyssaSallean</title>
+<link href='http://fonts.googleapis.com/css?family=Vibur' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Sintony' rel='stylesheet' type='text/css'>
+<title>Alyssa Sallean...</title>
 </head>
 
 <body>
-	<div id="wrapper">	
-		<?php include('includes/header.php'); ?>
-		<?php include('includes/nav.php'); ?>
-		<div id="content">
+<div id="wrapper">			
+	<div id="header">
+		Alyssa Sallean
+	</div>
+	<div id="nav">
+		<ul>
+			<li><a id="link-about" href="#about">About</a></li>
+			<li><a id="link-projects" href="#projects">Projects</a></li>
+			<li><a id="link-resume" href="#resume">Resume</a></li>
+			<li><a id="link-fun" href="#fun">For Fun!</a></li>
+		</ul>
+	</div> <!-- end nav  -->
+	<div id="about" class="panel">
 			<h3>About Me!</h3>
 			<p>
 I'm Alyssa Sallean and I'm a Computer Science major at the University of Texas in Austin!
@@ -26,10 +36,27 @@ I've worked on various projects over the many years that I've been doing this, f
 
 During my time at school, and when I'm not Skyping with my boyfriend in Boston, you can pretty much always find me in the Computer Lab on campus. I've gotten to know quite a few really, really swell and smart computer scientists much like myself who have made my experience at UT one of the most fun experiences of my life.
 </p>
+	</div> <!-- end about content -->
 
-		</div> <!-- end content -->
-		<?php include('includes/footer.php'); ?>
-	</div> <!-- end wrapper -->
+	<div id="projects" class="panel"> <!-- Projects page -->
+		<h2>Projects</h2>
+		<p>Insert Projects here</p>
+	</div>
+
+	<div id="resume" class="panel">  <!-- Resume page -->
+		<h2>Resume</h2>
+		<p>Insert Resume here</p>
+	</div>
+
+	<div id="fun" class="panel"> <!-- Fun Stuff/Hobbies Page -->
+		<h2>For Fun!</h2>
+		<p>Insert Fun Stuff Here!</p>
+	</div>
+		
+	<div id="footer">
+		<p> This website created by Alyssa Sallean Nov. 2013 </p>
+	</div> <!-- end footer -->
+</div> <!-- end wrapper -->
 </body>
 </html>
 

@@ -1,0 +1,20 @@
+body{
+background-color:%f8f8f8;
+}
+
+message {
+width: 300px;
+float:center;
+text-align:center;
+}
+
+message h3 {
+font-size:3em;
+font-family: 'Vibur', cursive;
+}
+
+message p{
+font-size:1em;
+font-family: 'Roboto', sans-serif;
+}
+
